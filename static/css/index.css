@@ -1,0 +1,5 @@
+/* Global Settings */
+@import url("setting.css");
+
+/* Pages + Components */
+@import url("pages/home.css"); 
